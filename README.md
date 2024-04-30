@@ -2,7 +2,7 @@
 
 A responsive Social links profile, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
-- [Page](https://sabiqhashil.github.io/blog_preview-responsive/) - Final result of the project
+- [Page](https://social-links-profile-responsive.vercel.app/) - Final result of the project
 
 ## Built with
 
